@@ -139,17 +139,11 @@ To run this app, you will need to follow these 3 steps:
 ## Status
 Project is: _done_
 
-## Contact
-Created by [Williano](https://williano.github.io/) - feel free to contact me!
-
-## License
->You can check out the full license [here](https://github.com/Williano/Final-Senior-Year-Project-/blob/master/LICENSE.md)
-
 This project is licensed under the terms of the **MIT** license.
 
 ## Contributing
 
-1. Fork it (<https://github.com/Williano/Final-Senior-Year-Project-.git>)
+1. Fork it (<https://github.com/secretstardev/Simple-Django-Bootstrap-Ecommerce.git>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
